@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+openpyxl
+scikit-learn
+lightgbm
+joblib
+google-genai
+gTTS
+pypdf
